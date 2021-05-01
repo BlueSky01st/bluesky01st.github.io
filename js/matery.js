@@ -169,4 +169,11 @@ $(function () {
 
     // 初始化加载 tooltipped.
     $('.tooltipped').tooltip();
+	//提醒开启功能 
+		setTimeout(function () {
+			if ((new Date().getHours() >= 19 || new Date().getHours() < 7) && !$('body').hasClass('DarkMode')) {
+				let toastHTML = '<span style="color:#97b8b2;border-radius: 10px;>' + '<i class="fa fa-bell" aria-hidden="true"></i>晚上使用深色模式阅读更好哦。(ﾟ▽ﾟ)/</span>'
+				M.toast({ html: toastHTML })
+			}
+		}, 2200)
 });
