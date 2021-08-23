@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bluesky01st.js.org/"/>
-  <updated>2020-08-16T08:05:18.082Z</updated>
+  <updated>2021-08-23T06:20:45.456Z</updated>
   <id>https://bluesky01st.js.org/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编译一个可装入一张软盘的嵌入式Linux</title>
+    <link href="https://bluesky01st.js.org/posts/75f63b3d.html"/>
+    <id>https://bluesky01st.js.org/posts/75f63b3d.html</id>
+    <published>2021-08-23T01:24:43.000Z</published>
+    <updated>2021-08-23T06:20:45.456Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;此篇文章属于文章 &lt;a href=&quot;https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://bluesky01st.js.org/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://bluesky01st.js.org/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>Python Note:requests(1)</title>
