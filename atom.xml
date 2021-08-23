@@ -5,9 +5,9 @@
   <subtitle>BlueSky01st</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://bluesky01st.js.org/"/>
+  <link href="https://blog.bluesky01st.vercel.app/"/>
   <updated>2021-08-23T06:35:12.584Z</updated>
-  <id>https://bluesky01st.js.org/</id>
+  <id>https://blog.bluesky01st.vercel.app/</id>
   
   <author>
     <name>BlueSky01st</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>编译一个可装入一张软盘的嵌入式Linux</title>
-    <link href="https://bluesky01st.js.org/posts/75f63b3d.html"/>
-    <id>https://bluesky01st.js.org/posts/75f63b3d.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/75f63b3d.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/75f63b3d.html</id>
     <published>2021-08-23T01:24:43.000Z</published>
     <updated>2021-08-23T06:35:12.584Z</updated>
     
@@ -37,17 +37,17 @@
     </summary>
     
     
-      <category term="Linux" scheme="https://bluesky01st.js.org/categories/Linux/"/>
+      <category term="Linux" scheme="https://blog.bluesky01st.vercel.app/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://bluesky01st.js.org/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.bluesky01st.vercel.app/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Python Note:requests(1)</title>
-    <link href="https://bluesky01st.js.org/posts/441a0256.html"/>
-    <id>https://bluesky01st.js.org/posts/441a0256.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/441a0256.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/441a0256.html</id>
     <published>2020-07-25T10:52:23.000Z</published>
     <updated>2020-08-16T08:05:18.082Z</updated>
     
@@ -64,19 +64,19 @@
     </summary>
     
     
-      <category term="Python" scheme="https://bluesky01st.js.org/categories/Python/"/>
+      <category term="Python" scheme="https://blog.bluesky01st.vercel.app/categories/Python/"/>
     
     
-      <category term="Python" scheme="https://bluesky01st.js.org/tags/Python/"/>
+      <category term="Python" scheme="https://blog.bluesky01st.vercel.app/tags/Python/"/>
     
-      <category term="requests" scheme="https://bluesky01st.js.org/tags/requests/"/>
+      <category term="requests" scheme="https://blog.bluesky01st.vercel.app/tags/requests/"/>
     
   </entry>
   
   <entry>
     <title>Markdown Emoji速查</title>
-    <link href="https://bluesky01st.js.org/posts/65dc6fb7.html"/>
-    <id>https://bluesky01st.js.org/posts/65dc6fb7.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/65dc6fb7.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/65dc6fb7.html</id>
     <published>2020-07-19T12:36:05.000Z</published>
     <updated>2020-08-16T08:05:18.077Z</updated>
     
@@ -94,17 +94,17 @@
     </summary>
     
     
-      <category term="Markdown" scheme="https://bluesky01st.js.org/categories/Markdown/"/>
+      <category term="Markdown" scheme="https://blog.bluesky01st.vercel.app/categories/Markdown/"/>
     
     
-      <category term="Markdown" scheme="https://bluesky01st.js.org/tags/Markdown/"/>
+      <category term="Markdown" scheme="https://blog.bluesky01st.vercel.app/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>自定义Matery主题教程</title>
-    <link href="https://bluesky01st.js.org/posts/d76019f8.html"/>
-    <id>https://bluesky01st.js.org/posts/d76019f8.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/d76019f8.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/d76019f8.html</id>
     <published>2020-06-22T06:45:52.000Z</published>
     <updated>2021-01-24T08:04:15.149Z</updated>
     
@@ -121,19 +121,19 @@
     </summary>
     
     
-      <category term="Hexo" scheme="https://bluesky01st.js.org/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.bluesky01st.vercel.app/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="https://bluesky01st.js.org/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.bluesky01st.vercel.app/tags/Hexo/"/>
     
-      <category term="Blog" scheme="https://bluesky01st.js.org/tags/Blog/"/>
+      <category term="Blog" scheme="https://blog.bluesky01st.vercel.app/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>Live2D看板娘(bilibili-2233)</title>
-    <link href="https://bluesky01st.js.org/posts/2afd864b.html"/>
-    <id>https://bluesky01st.js.org/posts/2afd864b.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/2afd864b.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/2afd864b.html</id>
     <published>2020-06-12T05:59:44.000Z</published>
     <updated>2020-08-16T08:05:18.066Z</updated>
     
@@ -152,16 +152,16 @@
     
     
     
-      <category term="Hexo" scheme="https://bluesky01st.js.org/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.bluesky01st.vercel.app/tags/Hexo/"/>
     
-      <category term="Blog" scheme="https://bluesky01st.js.org/tags/Blog/"/>
+      <category term="Blog" scheme="https://blog.bluesky01st.vercel.app/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>「后浪」原文</title>
-    <link href="https://bluesky01st.js.org/posts/df8687fa.html"/>
-    <id>https://bluesky01st.js.org/posts/df8687fa.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/df8687fa.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/df8687fa.html</id>
     <published>2020-06-10T00:50:59.000Z</published>
     <updated>2020-08-16T08:05:18.090Z</updated>
     
@@ -185,17 +185,17 @@
     </summary>
     
     
-      <category term="杂" scheme="https://bluesky01st.js.org/categories/%E6%9D%82/"/>
+      <category term="杂" scheme="https://blog.bluesky01st.vercel.app/categories/%E6%9D%82/"/>
     
     
-      <category term="杂" scheme="https://bluesky01st.js.org/tags/%E6%9D%82/"/>
+      <category term="杂" scheme="https://blog.bluesky01st.vercel.app/tags/%E6%9D%82/"/>
     
   </entry>
   
   <entry>
     <title>用Hexo搭建一个博客</title>
-    <link href="https://bluesky01st.js.org/posts/ea7ab40c.html"/>
-    <id>https://bluesky01st.js.org/posts/ea7ab40c.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/ea7ab40c.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/ea7ab40c.html</id>
     <published>2020-06-01T02:46:33.000Z</published>
     <updated>2021-02-18T02:02:17.695Z</updated>
     
@@ -214,16 +214,16 @@
     
     
     
-      <category term="Hexo" scheme="https://bluesky01st.js.org/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.bluesky01st.vercel.app/tags/Hexo/"/>
     
-      <category term="Blog" scheme="https://bluesky01st.js.org/tags/Blog/"/>
+      <category term="Blog" scheme="https://blog.bluesky01st.vercel.app/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>雪花特效</title>
-    <link href="https://bluesky01st.js.org/posts/ba45cc7d.html"/>
-    <id>https://bluesky01st.js.org/posts/ba45cc7d.html</id>
+    <link href="https://blog.bluesky01st.vercel.app/posts/ba45cc7d.html"/>
+    <id>https://blog.bluesky01st.vercel.app/posts/ba45cc7d.html</id>
     <published>2020-05-31T03:35:01.000Z</published>
     <updated>2020-08-16T08:05:18.231Z</updated>
     
@@ -241,9 +241,9 @@
     
     
     
-      <category term="Hexo" scheme="https://bluesky01st.js.org/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.bluesky01st.vercel.app/tags/Hexo/"/>
     
-      <category term="Blog" scheme="https://bluesky01st.js.org/tags/Blog/"/>
+      <category term="Blog" scheme="https://blog.bluesky01st.vercel.app/tags/Blog/"/>
     
   </entry>
   
